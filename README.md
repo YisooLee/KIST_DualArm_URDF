@@ -2,7 +2,7 @@
 
 ## Total DoF: 15
 
-## Joint numbers
+## Joint Info
 0 = Z, 1\~7, = Left Arm, 8\~15 = Right Arm
 
 
@@ -12,7 +12,7 @@ Prismatic Joint
 Lead : 5 mm   
 motor: RBE-10810   
 gear: 3:1   
-urdf link name: RWrR_Link
+urdf link name: body_link
 
 ### Joint 1
 Left Shoulder Pitch   
